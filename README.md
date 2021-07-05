@@ -18,9 +18,9 @@ Hyper parameters, such as $\beta$, number of layers and convolutional parameters
 
 # 2) Repo Structure
 
-## Executing either of the notebooks for the first time will create a data directory with the MNIST `/data` automatically.
+2.1) Executing either of the notebooks for the first time will create a data directory with the MNIST `/data` automatically.
 Do not use other preprocessed versions of MNIST.
 
-## `/models` contains checkpoints of small training runs on a local machine. Parameter settings can be found in the file name.
+2.2) `/models` contains checkpoints of small training runs on a local machine. Parameter settings can be found in the file name.
 
-## fig_src contains samples and reconstructions for different models which are specified by the filename of the respective images.
+2.3) fig_src contains samples and reconstructions for different models which are specified by the filename of the respective images.
