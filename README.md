@@ -24,4 +24,4 @@ Do not use other preprocessed versions of MNIST.
 
 2.2) `/models` contains checkpoints of small training runs on a local machine. Parameter settings can be found in the file name.
 
-2.3) fig_src contains samples and reconstructions for different models which are specified by the filename of the respective images.
+2.3) `/fig_src` contains samples and reconstructions for different models which are specified by the filename of the respective images.
