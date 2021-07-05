@@ -13,7 +13,7 @@
 `vae.ipynb`contains a vanilla VAE based on
 https://github.com/Atcold/pytorch-Deep-Learning/blob/master/11-VAE.ipynb
 
-`conv_vae.ipynb` contains the superior extension of `vae.ipynb` which produces better generations through convolving $z$.
+`conv_vae.ipynb` contains the superior extension of `vae.ipynb` which produces better generations through convolving z.
 Hyper parameters, such as $\beta$, number of layers and convolutional parameters need to be manipulated in-line.
 
 # 2) Repo Structure
