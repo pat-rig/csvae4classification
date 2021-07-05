@@ -1,3 +1,4 @@
+# 1) How to Run the Code?
 ## You need to set up a particular environment before running the notebooks:
 
 `cd repo_path`
@@ -14,6 +15,8 @@ https://github.com/Atcold/pytorch-Deep-Learning/blob/master/11-VAE.ipynb
 
 `conv_vae.ipynb` contains the superior extension of `vae.ipynb` which produces better generations through convolving $z$.
 Hyper parameters, such as $\beta$, number of layers and convolutional parameters need to be manipulated in-line.
+
+# 2) Repo Structure
 
 ## Executing either of the notebooks for the first time will create a data directory with the MNIST `/data` automatically.
 Do not use other preprocessed versions of MNIST.
